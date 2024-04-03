@@ -11,9 +11,7 @@ But also other things such as setting the device (GPU/CPU) and converting
 between different types (int, float etc) and how to convert a tensor to an
 numpy array and vice-versa.
 
-Programmed by Aladdin Persson
-* 2020-06-27: Initial coding
-* 2022-12-19: Small revision of code, checked that it works with latest PyTorch version
+
 """
 
 import torch
