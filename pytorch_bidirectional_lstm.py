@@ -1,12 +1,7 @@
 """
 Example code of a simple bidirectional LSTM on the MNIST dataset.
 Note that using RNNs on image data is not the best idea, but it is a 
-good example to show how to use RNNs that still generalizes to other tasks.
-
-Programmed by Tayba Busra <busra.persson at hotmail dot com>
-*    2020-05-09 Initial coding
-*    2022-12-16 Updated with more detailed comments, docstrings to functions, and checked code still functions as intended.
-
+good example to show how to use RNNs that still generalize to other tasks.
 """
 
 
