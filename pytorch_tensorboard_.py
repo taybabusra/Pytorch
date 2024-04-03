@@ -4,10 +4,6 @@ This code uses a lot of different functions from TensorBoard
 and tries to have them all in a compact way, it might not be
 super clear exactly what calls does what, for that I recommend
 watching the YouTube video.
-
-Programmed by Aladdin Persson <aladdin.persson at hotmail dot com>
-*    2020-04-17 Initial coding
-*    2022-12-19 Small revision of code, checked that it works with latest PyTorch version
 """
 
 # Imports
