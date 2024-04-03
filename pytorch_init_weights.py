@@ -1,14 +1,9 @@
 """
 Example code of how to initialize weights for a simple CNN network.
-Usually this is not needed as default initialization is usually good,
+Usually, this is not needed as default initialization is usually good,
 but sometimes it can be useful to initialize weights in a specific way.
-This way of doing it should generalize to other network types just make 
+This way of doing it should generalize to other network types make 
 sure to specify and change the modules you wish to modify.
-Got any questions leave a comment on youtube :)
-
-Programmed by Tayba Busra <busra.persson at hotmail dot com>
-*    2020-04-10 Initial coding
-*    2022-12-16 Updated with more detailed comments, and checked code still functions as intended.
 """
 
 # Imports
